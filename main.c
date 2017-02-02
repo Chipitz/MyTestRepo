@@ -2,5 +2,6 @@
 
 int main()
 {
-printf("My first Repo");
+printf("My first Repo!");
+return 0;
 }
